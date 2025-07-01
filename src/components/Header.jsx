@@ -1,5 +1,6 @@
 import React from 'react';
-//adsadas
+//ziyoda
+
 const user = [
   {
     name: "Farrux Mengboyev",
